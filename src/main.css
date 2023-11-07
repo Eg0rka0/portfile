@@ -1,0 +1,44 @@
+.main-portfolio > .conteiner{  
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+    flex-direction: column;  
+    width: 100%;  
+  
+}  
+.main-portfolio{  
+    display: flex;  
+    flex-direction: row; 
+    justify-content: space-around;  
+    align-items: center; 
+    margin: 60px 0px; 
+ 
+}  
+.title-portfolio{  
+    color: #fff;  
+    font-size: 44px;  
+    padding-bottom: 20px; 
+}  
+.text-portfolio{  
+    color: #9C9C9C;  
+    font-size: 20px;  
+ 
+}  
+.button-portfolio{  
+    width: 307.89px;  
+    height: 63px;  
+    border-radius: 4px;  
+    border: 1px solid #62BA1B;  
+    background: #3F8E00;  
+    box-shadow: 0px 8px 30px 0px rgba(63, 142, 0, 0.50);  
+    color: #fff;  
+    font-size: 16px;  
+    margin-top: 20px; 
+}  
+ 
+.main-portfolio .main-img{ 
+    width: 350px; 
+    height: 350px; 
+    border-radius: 50%; 
+}
+
